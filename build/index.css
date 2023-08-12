@@ -1,0 +1,12 @@
+.text {
+  font-familly: 'Roboto', sans-serif;
+  text-align: center
+}
+.dark {
+    background-color: #222;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
